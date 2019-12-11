@@ -396,6 +396,7 @@ namespace GUI
             txtTenCongViec.Enabled = false;
             txtMaCongViec.Enabled = false;
             dtmNgayKetThuc.Enabled = false;
+            lblThongBao.Text = "";
 
             btnDuAn.Normalcolor = Color.FromArgb(39, 99, 109);
             btnDuAn.Textcolor = Color.White;
